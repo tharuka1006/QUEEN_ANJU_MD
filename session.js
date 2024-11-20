@@ -21,5 +21,5 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "[![Node.js CI](https://github.com/tharuka1006/QUEEN_ANJU_MD/actions/workflows/node.js.yml/badge.svg)](https://github.com/tharuka1006/QUEEN_ANJU_MD/actions/workflows/node.js.yml)",
+SESSION_ID: process.env.SESSION_ID || "ANJU-MD=GQlXBRjB#9GeAY0ks5BqqIipYPikMPrYnDdOLT0u9m21oVwOmJrg",
 };
